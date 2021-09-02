@@ -13,3 +13,5 @@
 * 📫 Вы можете связаться со мной: iva3nik@yandex.ru
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iva3nik)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iva3nik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
